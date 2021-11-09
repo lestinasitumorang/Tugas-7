@@ -24,5 +24,7 @@ Nilai UAS
 
 Akhir
 
+Tampilkan Data y/t Tambahkan Data
+
 
 
