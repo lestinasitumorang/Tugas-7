@@ -11,20 +11,21 @@ Tampilan Flowchart
 
 Langkah-Langkah Algoritma Program
 
-Start
-Input Nama
+1. Start
 
-Input NIM
+2. Input Nama
 
-Nilai Tugas
+3. Input NIM
 
-Nilai UTS
+4. Nilai Tugas
 
-Nilai UAS
+5. Nilai UTS
 
-Akhir
+6. Nilai UAS
 
-Tampilkan Data y/t Tambahkan Data
+7. Tambahkan Data 
 
+8. Tampilkan Data
 
+9. End
 
