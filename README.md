@@ -11,7 +11,17 @@ Tampilan Flowchart
 Langkah-Langkah Algoritma Program
 
 Start
-Input Nama,Input NIM,Nilai Tugas,Nilai UTS,Nilai UAS,Akhir
+Input Nama
+
+Input NIM
+
+Nilai Tugas
+
+Nilai UTS
+
+Nilai UAS
+
+Akhir
 
 
 
